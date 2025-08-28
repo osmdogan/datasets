@@ -1,2 +1,2 @@
 # datasets
-The datasets for Introduction to Econometrics with Python
+This repository includes all datasets used in Introduction to Econometrics with Python: https://osmdogan.github.io/Python_Book.
